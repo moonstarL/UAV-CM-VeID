@@ -4,6 +4,6 @@ we contribute a cross-modality vehicle Re-ID benchmark named UAV Cross-Modality 
 
 数据下载地址：
 地址1.https://drive.google.com/file/d/1drTz9p_IrggUEwpDXAs9Np8AQ-atpB3O/view?usp=drive_link
-地址2.https://pan.baidu.com/s/1LGoyId3nZGZxBWOvIGfiAQ?pwd=hd8c&_at_=1718675822521
-<img width="1400" height="150" alt="image" src="https://github.com/user-attachments/assets/056ff7dc-659d-478c-becf-78cc67f85859" />
+地址2.通过网盘分享的文件：UCM-VeID.zip，链接: https://pan.baidu.com/s/1ZYRk4STEqWRKEKIdBKR07g 提取码: atr2
+
 
