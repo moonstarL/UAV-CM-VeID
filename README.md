@@ -9,7 +9,7 @@ we contribute two cross-modality vehicle Re-ID benchmark named UAV Cross-Modalit
 
 
 
-
+声明：第一版和第二版数据集ID编号1-753分别对应相同的目标，只是命名方式不同
 
 
 
