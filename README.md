@@ -1,5 +1,5 @@
 # UAV-CM-VeID
-we contribute two cross-modality vehicle Re-ID benchmark named UAV Cross-Modality Vehicle Re-ID (UAV-CM-VeID and UCM-VeID_v2).
+we contribute two cross-modality vehicle Re-ID benchmark named UAV Cross-Modality Vehicle Re-ID (UCM-VeID and UCM-VeID_v2).
 
 
 数据下载地址：
